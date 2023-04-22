@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2018-09-26 晚上 骑行</name>
+    <desc>行者骑行软件</desc>
+    <time>2018-09-26T21:02:48Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>52924988</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="30.488349" lon="114.387033">
+        <ele>34.9</ele>
+        <time>2018-09-26T21:02:48Z</time>
+      </trkpt>
+      <trkpt lat="30.488333" lon="114.386939">
+        <ele>32.8</ele>
+        <time>2018-09-26T21:02:51Z</time>
+      </trkpt>
+      <trkpt lat="30.488306" lon="114.38686">
+        <ele>31.5</ele>
+        <time>2018-09-26T21:02:54Z</time>
+      </trkpt>
+      <trkpt lat="30.488245" lon="114.386782">
+        <ele>31.2</ele>
+        <time>2018-09-26T21:02:57Z</time>
+      </trkpt>
+      <trkpt lat="30.4882" lon="114.386713">
+        <ele>31.5</ele>
+        <time>2018-09-26T21:03:00Z</time>
+      </trkpt>
+      <trkpt lat="30.488127" lon="114.38667">
+        <ele>31.1</ele>
+        <time>2018-09-26T21:03:03Z</time>
+      </trkpt>
+      <trkpt lat="30.488051" lon="114.386632">
+        <ele>29.9</ele>
+        <time>2018-09-26T21:03:06Z</time>
+      </trkpt>
+      <trkpt lat="30.487984" lon="114.386563">
+        <ele>28.0</ele>
+        <time>2018-09-26T21:03:10Z</time>
+      </trkpt>
+      <trkpt lat="30.487903" lon="114.386516">
+        <ele>27.5</ele>
+        <time>2018-09-26T21:03:13Z</time>
+      </trkpt>
+      <trkpt lat="30.487817" lon="114.386471">
+        <ele>26.8</ele>
+        <time>2018-09-26T21:03:16Z</time>
+      </trkpt>
+      <trkpt lat="30.487736" lon="114.386438">
+        <ele>26.1</ele>
+        <time>2018-09-26T21:03:19Z</time>
+      </trkpt>
+      <trkpt lat="30.487668" lon="114.386403">
+        <ele>25.1</ele>
+        <time>2018-09-26T21:03:22Z</time>
+      </trkpt>
+      <trkpt lat="30.487575" lon="114.386373">
+        <ele>24.7</ele>
+        <time>2018-09-26T21:03:26Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

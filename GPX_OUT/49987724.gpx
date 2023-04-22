@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2018-08-11 上午 骑行</name>
+    <desc>行者骑行软件</desc>
+    <time>2018-08-11T11:23:12Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>49987724</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="28.099289" lon="110.253657">
+        <ele>401.0</ele>
+        <time>2018-08-11T11:23:12Z</time>
+      </trkpt>
+      <trkpt lat="28.099269" lon="110.253761">
+        <ele>401.8</ele>
+        <time>2018-08-11T11:23:15Z</time>
+      </trkpt>
+      <trkpt lat="28.099288" lon="110.253839">
+        <ele>400.9</ele>
+        <time>2018-08-11T11:23:17Z</time>
+      </trkpt>
+      <trkpt lat="28.099323" lon="110.25392">
+        <ele>398.2</ele>
+        <time>2018-08-11T11:23:24Z</time>
+      </trkpt>
+      <trkpt lat="28.099337" lon="110.254006">
+        <ele>398.2</ele>
+        <time>2018-08-11T11:23:29Z</time>
+      </trkpt>
+      <trkpt lat="28.099367" lon="110.254086">
+        <ele>397.9</ele>
+        <time>2018-08-11T11:23:32Z</time>
+      </trkpt>
+      <trkpt lat="28.0994" lon="110.254184">
+        <ele>398.4</ele>
+        <time>2018-08-11T11:23:35Z</time>
+      </trkpt>
+      <trkpt lat="28.099438" lon="110.254261">
+        <ele>398.6</ele>
+        <time>2018-08-11T11:23:40Z</time>
+      </trkpt>
+      <trkpt lat="28.09943" lon="110.254175">
+        <ele>388.4</ele>
+        <time>2018-08-11T11:24:15Z</time>
+      </trkpt>
+      <trkpt lat="28.099388" lon="110.254096">
+        <ele>383.9</ele>
+        <time>2018-08-11T11:24:29Z</time>
+      </trkpt>
+      <trkpt lat="28.099351" lon="110.254013">
+        <ele>382.4</ele>
+        <time>2018-08-11T11:24:38Z</time>
+      </trkpt>
+      <trkpt lat="28.099326" lon="110.253928">
+        <ele>381.1</ele>
+        <time>2018-08-11T11:24:47Z</time>
+      </trkpt>
+      <trkpt lat="28.09932" lon="110.253842">
+        <ele>380.8</ele>
+        <time>2018-08-11T11:25:00Z</time>
+      </trkpt>
+      <trkpt lat="28.099309" lon="110.25376">
+        <ele>381.7</ele>
+        <time>2018-08-11T11:25:11Z</time>
+      </trkpt>
+      <trkpt lat="28.099323" lon="110.253679">
+        <ele>383.4</ele>
+        <time>2018-08-11T11:25:20Z</time>
+      </trkpt>
+      <trkpt lat="28.099348" lon="110.253592">
+        <ele>360.3</ele>
+        <time>2018-08-11T11:25:28Z</time>
+      </trkpt>
+      <trkpt lat="28.099393" lon="110.253527">
+        <ele>378.7</ele>
+        <time>2018-08-11T11:25:37Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

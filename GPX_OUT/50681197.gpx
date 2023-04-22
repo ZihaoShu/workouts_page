@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2018-08-22 下午 骑行</name>
+    <desc>行者骑行软件</desc>
+    <time>2018-08-22T14:59:37Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>50681197</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="28.003578" lon="110.204806">
+        <ele>152.4</ele>
+        <time>2018-08-22T14:59:37Z</time>
+      </trkpt>
+      <trkpt lat="28.003556" lon="110.204913">
+        <ele>152.5</ele>
+        <time>2018-08-22T14:59:38Z</time>
+      </trkpt>
+      <trkpt lat="28.003517" lon="110.205034">
+        <ele>152.6</ele>
+        <time>2018-08-22T14:59:39Z</time>
+      </trkpt>
+      <trkpt lat="28.003478" lon="110.205138">
+        <ele>152.9</ele>
+        <time>2018-08-22T14:59:40Z</time>
+      </trkpt>
+      <trkpt lat="28.003455" lon="110.205251">
+        <ele>153.3</ele>
+        <time>2018-08-22T14:59:41Z</time>
+      </trkpt>
+      <trkpt lat="28.003431" lon="110.205364">
+        <ele>153.6</ele>
+        <time>2018-08-22T14:59:42Z</time>
+      </trkpt>
+      <trkpt lat="28.003411" lon="110.205465">
+        <ele>153.7</ele>
+        <time>2018-08-22T14:59:43Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
